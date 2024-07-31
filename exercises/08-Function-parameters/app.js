@@ -1,5 +1,7 @@
 // Your code goes here:
-
+let renderPerson = (name,dob,color,age,gender) =>{
+    return `${name} is a ${age} years old ${gender} born in ${dob} with ${color} eyes`
+}
 
 
 ///*** Do not edit below this line ***///

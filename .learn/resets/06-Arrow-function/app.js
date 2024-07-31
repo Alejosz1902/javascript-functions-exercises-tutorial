@@ -1,5 +1,5 @@
-let multi = (num1,num2) => {
-    return num1*num2;
+function multi(a,b) {
+    return a * b;
 }
 
 // Don't edit anything below this line
